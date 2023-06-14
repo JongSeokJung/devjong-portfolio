@@ -33,8 +33,8 @@ const About = (props: Props) => {
               <TerminalIcon className="about__icon" />
               <h5>Programming languages</h5>
               <div className="about__info">
-                <p>Java</p>
                 <p>JavaScript</p>
+                <p>Java</p>
                 <p>Python</p>
               </div>
             </article>

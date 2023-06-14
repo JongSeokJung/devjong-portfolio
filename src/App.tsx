@@ -10,14 +10,14 @@ type Props = {};
 
 const App = (props: Props) => {
   return (
-    <div>
+    <main>
       <Header />
       <Nav />
       <About />
       <Portfolio />
       <Contact />
       <Footer />
-    </div>
+    </main>
   );
 };
 
