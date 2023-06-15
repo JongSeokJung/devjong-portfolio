@@ -72,6 +72,7 @@ section {
 
 .about__intro {
   padding: 1rem 0;
+  font-size: 1rem;
 }
 .about__intro p {
   margin: 1rem 0;
@@ -88,10 +89,11 @@ section {
   .about__container {
     grid-template-columns: 1fr;
     gap: 0;
+    height: 80vh;
   }
 
   .about__me {
-    width: 38%;
+    width: 20vh;
     height: fit-content;
     margin: 1.7rem auto;
   }
