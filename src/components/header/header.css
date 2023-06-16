@@ -76,6 +76,7 @@ header {
   .me {
     height: 60vh;
     min-height: 30rem;
+    border-radius: 12rem;
   }
 
   .profile__pic {
