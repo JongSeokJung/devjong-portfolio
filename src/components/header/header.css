@@ -70,7 +70,12 @@ header {
 /* MEDIA QUERIES (TABLE DEVICES) */
 @media screen and (max-width: 1024px) {
   header {
-    height: 68vh;
+    height: 80vh;
+  }
+
+  me > img {
+    width: 100%;
+    object-fit: cover;
   }
 }
 
