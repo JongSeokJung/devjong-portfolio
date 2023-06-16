@@ -7,7 +7,7 @@ type Props = {};
 
 const Header = (props: Props) => {
   return (
-    <header>
+    <header id="header">
       <div className="container header__container">
         <h5>Hello</h5>
         <h1>Jongseok Jung</h1>
