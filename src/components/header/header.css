@@ -73,9 +73,13 @@ header {
     height: 80vh;
     padding-top: 3rem;
   }
+  .me {
+    height: 60vh;
+    min-height: 30rem;
+  }
 
-  me > img {
-    width: 100%;
+  .profile__pic {
+    height: 80%;
     object-fit: cover;
   }
 }
