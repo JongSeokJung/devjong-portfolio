@@ -120,12 +120,21 @@ img {
 
 /* MEDIA QUERIES (TABLE DEVICES) */
 @media screen and (max-width: 1024px) {
+  html {
+    scroll-behavior: smooth;
+    scroll-snap-type: none;
+  }
   .container {
     width: var(--container-width-md);
   }
 
   section {
     margin-top: 6rem;
+    height: auto;
+  }
+
+  section > h2 {
+    margin-top: 0;
   }
 }
 
@@ -133,9 +142,5 @@ img {
 @media screen and (max-width: 600px) {
   .container {
     width: var(--container-width-sm);
-  }
-
-  section > h2 {
-    margin-top: 2rem;
   }
 }
