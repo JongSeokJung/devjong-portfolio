@@ -10,7 +10,7 @@ type Props = {};
 const Nav = (props: Props) => {
   return (
     <nav>
-      <a href="#header">
+      <a href="#home">
         <HomeOutlinedIcon />
       </a>
       <a href="#about">
