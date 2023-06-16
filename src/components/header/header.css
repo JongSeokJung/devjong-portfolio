@@ -71,6 +71,7 @@ header {
 @media screen and (max-width: 1024px) {
   header {
     height: 80vh;
+    padding-top: 3rem;
   }
 
   me > img {
