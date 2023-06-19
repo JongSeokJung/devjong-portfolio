@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/devjong-portfolio/static/css/main.03b4130f.css",
-    "main.js": "/devjong-portfolio/static/js/main.d4e330e2.js",
+    "main.js": "/devjong-portfolio/static/js/main.91f4eded.js",
     "static/media/portfolio3.png": "/devjong-portfolio/static/media/portfolio3.828b868865e104f5e726.png",
     "static/media/me1.png": "/devjong-portfolio/static/media/me1.49c80ad3108d56c5e262.png",
     "static/media/me-about.jpg": "/devjong-portfolio/static/media/me-about.3fbf3e89a044e513933c.jpg",
     "static/media/portfolio2.png": "/devjong-portfolio/static/media/portfolio2.0129e0c5be060d9be503.png",
     "static/media/portfolio1.png": "/devjong-portfolio/static/media/portfolio1.4b0a9e615e6648dcab85.png",
-    "static/media/cv.pdf": "/devjong-portfolio/static/media/cv.25e0dbcc90d18e82a08c.pdf",
+    "static/media/cv.pdf": "/devjong-portfolio/static/media/cv.e39cc5254b7e98119d96.pdf",
     "index.html": "/devjong-portfolio/index.html",
     "main.03b4130f.css.map": "/devjong-portfolio/static/css/main.03b4130f.css.map",
-    "main.d4e330e2.js.map": "/devjong-portfolio/static/js/main.d4e330e2.js.map"
+    "main.91f4eded.js.map": "/devjong-portfolio/static/js/main.91f4eded.js.map"
   },
   "entrypoints": [
     "static/css/main.03b4130f.css",
-    "static/js/main.d4e330e2.js"
+    "static/js/main.91f4eded.js"
   ]
 }
